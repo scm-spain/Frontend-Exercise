@@ -1,4 +1,4 @@
-# Frontend-Exercise
+## Frontend Exercise
 
 With the next markup, you must create an accordion (JS / CSS) show only the contents of a section at a time.
 Sure to follow the [SUIT](https://suitcss.github.io/) convention when working with CSS.
