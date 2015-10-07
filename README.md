@@ -23,7 +23,7 @@ Sure to follow the [SUIT](https://suitcss.github.io/) convention when working wi
 
 ### Conditions
 * Use Sass for generate CSS
-* USe ES6
+* Use ES6
 * Generate gh-page for publish
 
 ### Bonus
