@@ -1,6 +1,6 @@
 # Frontend-Exercise
 
-With next markup, you must create an accordion (JS / CSS) show only the contents of a section at a time.
+With the next markup, you must create an accordion (JS / CSS) show only the contents of a section at a time.
 Sure to follow the [SUIT](https://suitcss.github.io/) convention when working with CSS.
 
 
@@ -20,3 +20,11 @@ Sure to follow the [SUIT](https://suitcss.github.io/) convention when working wi
   </dd>
 </dl>
 ```
+
+### Conditions
+* Use Sass for generate CSS
+* USe ES6
+* Generate gh-page for publish
+
+### Bonus
+* Add new section with Ajax content
