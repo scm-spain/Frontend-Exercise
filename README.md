@@ -25,6 +25,7 @@ Sure to follow the [SUIT](https://suitcss.github.io/) convention when working wi
 * Use Sass for generate CSS
 * Use ES6
 * Generate gh-page for publish
+* Using JS frameworks is allowed, but it is recommended that they are used sparingly.
 
 ### Bonus
 * Add new section with Ajax content
