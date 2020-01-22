@@ -1,8 +1,6 @@
 ## Frontend Exercise
 
-With the next markup, you must create an accordion (JS / CSS) show only the contents of a section at a time.
-Sure to follow the [SUIT](https://suitcss.github.io/) convention when working with CSS.
-
+Using the markup provided below, you must create an accordion that shows only the contents of a section at a time.
 
 ```html
 <dl>
@@ -22,11 +20,9 @@ Sure to follow the [SUIT](https://suitcss.github.io/) convention when working wi
 ```
 
 ### Conditions
-* Use Sass for generate CSS
-* Use ES6
-* Use only Vanilla JS, without any JS framework
-* Generate gh-page for publish
-
-
-### Bonus
-* Add new section with Ajax content
+* Use SASS for generating CSS.
+* Follow the [SUIT](https://suitcss.github.io/) naming convention when working with CSS.
+* Use EcmaScript 2015.
+* Use only Vanilla JS. Don't use any framework (React, Angular, Vue...)
+* Deploy the page to a public URL.
+* Add new section with AJAX content.
